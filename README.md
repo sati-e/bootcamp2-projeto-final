@@ -21,7 +21,7 @@ Documentação: [Link da api](https://developers.deezer.com/api)
 #### Escrever a carta
 - Campo **Para** com o nome de quem vai receber
 - Bloco de texto grande com estilo de papel pautado e letra manuscrita
-- Campo **De** opcional, para enviar de forma anônima
+- Campo **De** como nome de quem enviou
 
 #### Música
 - Busca por título ou artista
