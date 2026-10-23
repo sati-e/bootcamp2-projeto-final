@@ -1,8 +1,8 @@
 # bootcamp2-projeto-final
 
 Grupo
-Satie K. Chirico - 22301624
-Pedro Lucas R. Greco - 
+Satie K. Chirico - 22301624  
+Pedro Lucas R. Greco -   
 Eliza F. - 
 
 ## Descrição
@@ -14,7 +14,7 @@ GitHub Pages:
 
 ## API utilizada  
 Nome: Deezer Public API  
-Documentação: [https://pokeapi.co/docs/v2](https://developers.deezer.com/api)  
+Documentação: [Link da api](https://developers.deezer.com/api)  
 **Endpoints consumidos:**  
 
 ## Funcionalidades
@@ -29,13 +29,7 @@ Documentação: [https://pokeapi.co/docs/v2](https://developers.deezer.com/api)
 - Prévia de 30 segundos
 
 #### Compartilhar
--  
-
-#### Ler a carta
--  
-
-### Planejadas para o futuro
--  
+-  A carta pode ser compartilhada por como PDF
 
 ## Tecnologias utilizadas
--  
+-  python, html, css e js
