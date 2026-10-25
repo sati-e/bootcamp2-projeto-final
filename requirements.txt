@@ -1,0 +1,2 @@
+# Única dependência externa (apenas para gerar o PDF). O resto é biblioteca padrão.
+weasyprint>=62
