@@ -2,7 +2,7 @@
 
 Grupo
 Satie K. Chirico - 22301624  
-Pedro Lucas R. Greco -   
+Pedro Lucas R. Greco - 22308774
 Eliza F. - 
 
 ## Descrição
