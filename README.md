@@ -3,7 +3,7 @@
 Grupo
 Satie K. Chirico - 22301624  
 Pedro Lucas R. Greco - 22308774
-Eliza F. - 
+Eliza F. - 22302645
 
 ## Descrição
 Cartas com trilha é um site simples para enviar cartas digitais acompanhadas de uma música. A pessoa escreve o texto numa página com visual de papel de carta, escolhe uma canção por meio de uma busca com API integrada e pode compartilhar/baixar em PDF.
