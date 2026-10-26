@@ -1,0 +1,15 @@
+services:
+  cartas:
+    build: .
+    image: SEU_USUARIO/cartas-com-trilha:latest   # troque pelo seu usuário do Docker Hub
+    ports:
+      - "8000:8000"
+    environment:
+      # Endereço público do site (usado no link gerado). Deixe vazio para testar local.
+      BASE_URL: "${BASE_URL:-}"
+    volumes:
+      - cartas_data:/app/data
+    restart: unless-stopped
+
+volumes:
+  cartas_data:
