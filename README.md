@@ -1,3 +1,4 @@
+
 # bootcamp2-projeto-final
 
 ## Equipe e divisão de funcionalidades
@@ -84,3 +85,12 @@ O check `testes` é **obrigatório**: a branch `main` está protegida e não per
 ### Evidência: PR com teste quebrado bloqueada
 
 [PR #4: teste quebrado](https://github.com/sati-e/bootcamp2-projeto-final/pull/4)
+
+### Proteção da branch `main`
+
+A `main` é protegida por dois rulesets:
+
+- **Require a pull request before merging:** proíbe push direto na `main`.  
+- **Require status checks to pass before merging:** exige que o check `test` (GitHub Actions) passe antes do merge.  
+<img width="1136" height="695" alt="print 1" src="https://github.com/user-attachments/assets/f1993a39-de42-4e35-a70b-6fa49a3bf9f5" />
+<img width="1136" height="485" alt="print 2" src="https://github.com/user-attachments/assets/2f7f2ffe-7231-4101-a953-650ce43da0be" />
