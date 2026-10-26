@@ -66,3 +66,21 @@ API pública do Deezer, sem necessidade de autenticação.
 -  css
 -  html
 -  js
+
+## PRs
+
+| Membro | Funcionalidade (código) | PR |
+|---|---|---|
+| [Satie K. Chirico](https://github.com/sati-e) | Frontend (HTML/CSS) | [#3](https://github.com/sati-e/bootcamp2-projeto-final/pull/3) |
+| [Pedro Lucas R. Greco](https://github.com/GoGreco) | Backend | [#2](https://github.com/sati-e/bootcamp2-projeto-final/pull/2) |
+| [Eliza F. de Castro](https://github.com/Elizafc) | Geração de PDF | [#1](https://github.com/sati-e/bootcamp2-projeto-final/pull/1) |
+
+## Integração contínua
+
+O workflow `.github/workflows/ci.yml` roda os testes automaticamente a cada Pull Request para a `main`.  
+
+O check `testes` é **obrigatório**: a branch `main` está protegida e não permite merge de PR com teste falhando.
+
+### Evidência: PR com teste quebrado bloqueada
+
+[PR #4: teste quebrado](https://github.com/sati-e/bootcamp2-projeto-final/pull/4)
